@@ -1,0 +1,13 @@
+{
+"id": 51,
+"name": "Iridium-1050",
+"norad_id": 25050,
+"altitude_km": 1200.0,
+"inclination_deg": 86.9,
+"period_min": 109.26714592561119,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2017,
+"description": "Voice/data satellite phone network",
+"orbits_planet_id": "Earth"
+}

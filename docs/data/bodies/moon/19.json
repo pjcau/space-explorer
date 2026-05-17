@@ -1,0 +1,37 @@
+{
+"id": 19,
+"name": "Phoebe",
+"type": "moon",
+"parent": {
+"id": 6,
+"name": "Saturn",
+"type": "planet"
+},
+"siblings": [
+{
+"id": 11,
+"name": "Titan",
+"type": "moon"
+},
+{
+"id": 12,
+"name": "Rhea",
+"type": "moon"
+},
+{
+"id": 13,
+"name": "Iapetus",
+"type": "moon"
+},
+{
+"id": 14,
+"name": "Dione",
+"type": "moon"
+},
+{
+"id": 15,
+"name": "Tethys",
+"type": "moon"
+}
+]
+}

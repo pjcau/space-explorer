@@ -1,0 +1,13 @@
+{
+"id": 464,
+"name": "Eutelsat 14",
+"norad_id": 25463,
+"altitude_km": 35805.0,
+"inclination_deg": 0.183,
+"period_min": 1436.6726130150917,
+"type": "GEO",
+"country": "France",
+"launch_year": 2020,
+"description": "European DTH/TV broadcast satellite",
+"orbits_planet_id": "Earth"
+}

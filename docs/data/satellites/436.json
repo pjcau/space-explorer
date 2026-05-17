@@ -1,0 +1,13 @@
+{
+"id": 436,
+"name": "GPS BIIR R5",
+"norad_id": 25435,
+"altitude_km": 26845.0,
+"inclination_deg": 56.05,
+"period_min": 1004.1086950621037,
+"type": "MEO",
+"country": "USA",
+"launch_year": 2002,
+"description": "US Air Force GPS navigation satellite",
+"orbits_planet_id": "Earth"
+}

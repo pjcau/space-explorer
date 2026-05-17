@@ -1,0 +1,13 @@
+{
+"id": 41,
+"name": "Starlink-1040",
+"norad_id": 25040,
+"altitude_km": 1030.0,
+"inclination_deg": 52.8,
+"period_min": 105.6076397120806,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2019,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Earth"
+}

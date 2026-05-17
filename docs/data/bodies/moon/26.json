@@ -1,0 +1,27 @@
+{
+"id": 26,
+"name": "Triton",
+"type": "moon",
+"parent": {
+"id": 8,
+"name": "Neptune",
+"type": "planet"
+},
+"siblings": [
+{
+"id": 27,
+"name": "Nereid",
+"type": "moon"
+},
+{
+"id": 28,
+"name": "Proteus",
+"type": "moon"
+},
+{
+"id": 29,
+"name": "Larissa",
+"type": "moon"
+}
+]
+}

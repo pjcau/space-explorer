@@ -1,0 +1,32 @@
+{
+"id": 21,
+"name": "Titania",
+"type": "moon",
+"parent": {
+"id": 7,
+"name": "Uranus",
+"type": "planet"
+},
+"siblings": [
+{
+"id": 22,
+"name": "Oberon",
+"type": "moon"
+},
+{
+"id": 23,
+"name": "Umbriel",
+"type": "moon"
+},
+{
+"id": 24,
+"name": "Ariel",
+"type": "moon"
+},
+{
+"id": 25,
+"name": "Miranda",
+"type": "moon"
+}
+]
+}

@@ -29,5 +29,6 @@ build/
 dist/
 node_modules/
 
-# Docker volumes (when bind-mounted accidentally)
-data/
+# Docker volumes (when bind-mounted accidentally). Anchored at repo root
+# so it does NOT match docs/data/ (the GitHub Pages dataset).
+/data/

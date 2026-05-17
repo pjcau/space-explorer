@@ -1,0 +1,10 @@
+{
+"id": 4,
+"name": "Mars",
+"distance_au": 1.52,
+"radius_km": 3389.5,
+"color": "#FF4500",
+"rotation_period_hours": 24.6,
+"description": "The Red Planet",
+"moons": []
+}

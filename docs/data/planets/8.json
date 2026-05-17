@@ -1,0 +1,43 @@
+{
+"id": 8,
+"name": "Neptune",
+"distance_au": 30.05,
+"radius_km": 24622.0,
+"color": "#4169E1",
+"rotation_period_hours": 16.1,
+"description": "Windiest planet",
+"moons": [
+{
+"id": 26,
+"planet_id": 8,
+"name": "Triton",
+"orbital_radius_km": 354759.0,
+"radius_km": 1353.4,
+"description": "Largest moon of Neptune with retrograde orbit"
+},
+{
+"id": 27,
+"planet_id": 8,
+"name": "Nereid",
+"orbital_radius_km": 5513000.0,
+"radius_km": 170.0,
+"description": "Irregular moon with eccentric orbit"
+},
+{
+"id": 28,
+"planet_id": 8,
+"name": "Proteus",
+"orbital_radius_km": 117640.0,
+"radius_km": 210.3,
+"description": "Largest of Neptune's inner moons"
+},
+{
+"id": 29,
+"planet_id": 8,
+"name": "Larissa",
+"orbital_radius_km": 73540.0,
+"radius_km": 83.0,
+"description": "Irregular inner moon of Neptune"
+}
+]
+}

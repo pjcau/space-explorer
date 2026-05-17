@@ -1,0 +1,13 @@
+{
+"id": 442,
+"name": "GLONASS-K S1",
+"norad_id": 25441,
+"altitude_km": 28387.0,
+"inclination_deg": 66.63,
+"period_min": 1074.835243660142,
+"type": "MEO",
+"country": "Russia",
+"launch_year": 2014,
+"description": "Russian global navigation satellite",
+"orbits_planet_id": "Earth"
+}

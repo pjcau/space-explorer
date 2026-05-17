@@ -1,0 +1,13 @@
+{
+"id": 33,
+"name": "Starlink-1032",
+"norad_id": 25032,
+"altitude_km": 894.0,
+"inclination_deg": 52.24,
+"period_min": 102.71010142066307,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2021,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Earth"
+}

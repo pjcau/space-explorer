@@ -1,0 +1,13 @@
+{
+"id": 433,
+"name": "Galileo FOC Q2",
+"norad_id": 25432,
+"altitude_km": 26074.0,
+"inclination_deg": 56.66,
+"period_min": 969.3517481420608,
+"type": "MEO",
+"country": "ESA",
+"launch_year": 2016,
+"description": "European Galileo navigation satellite",
+"orbits_planet_id": "Earth"
+}

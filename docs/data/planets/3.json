@@ -1,0 +1,19 @@
+{
+"id": 3,
+"name": "Earth",
+"distance_au": 1.0,
+"radius_km": 6371.0,
+"color": "#4169E1",
+"rotation_period_hours": 24.0,
+"description": "Our home planet",
+"moons": [
+{
+"id": 1,
+"planet_id": 3,
+"name": "Moon",
+"orbital_radius_km": 384400.0,
+"radius_km": 1737.4,
+"description": "Earth's only natural satellite"
+}
+]
+}

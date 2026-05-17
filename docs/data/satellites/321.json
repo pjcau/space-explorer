@@ -1,0 +1,13 @@
+{
+"id": 321,
+"name": "Starlink-1320",
+"norad_id": 25320,
+"altitude_km": 1190.0,
+"inclination_deg": 54.400000000000006,
+"period_min": 109.05073252481472,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2019,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Earth"
+}

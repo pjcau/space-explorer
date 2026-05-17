@@ -1,0 +1,13 @@
+{
+"id": 289,
+"name": "Starlink-1288",
+"norad_id": 25288,
+"altitude_km": 646.0,
+"inclination_deg": 52.160000000000004,
+"period_min": 97.49603295118733,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2022,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Earth"
+}

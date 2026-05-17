@@ -1,0 +1,10 @@
+{
+"id": 2,
+"name": "Venus",
+"distance_au": 0.72,
+"radius_km": 6051.8,
+"color": "#E6C288",
+"rotation_period_hours": -243.0,
+"description": "Second planet from the Sun",
+"moons": []
+}

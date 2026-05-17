@@ -1,0 +1,13 @@
+{
+"id": 413,
+"name": "Galileo FOC M2",
+"norad_id": 25412,
+"altitude_km": 20934.0,
+"inclination_deg": 54.06,
+"period_min": 748.3814280085754,
+"type": "MEO",
+"country": "ESA",
+"launch_year": 2020,
+"description": "European Galileo navigation satellite",
+"orbits_planet_id": "Earth"
+}

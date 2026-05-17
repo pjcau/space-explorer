@@ -1,0 +1,37 @@
+{
+"id": 316,
+"name": "Planet Dove-1315",
+"type": "satellite",
+"parent": {
+"id": 4,
+"name": "Mars",
+"type": "planet"
+},
+"siblings": [
+{
+"id": 1,
+"name": "Starlink-1000",
+"type": "satellite"
+},
+{
+"id": 36,
+"name": "Planet Dove-1035",
+"type": "satellite"
+},
+{
+"id": 71,
+"name": "BlackSky-1070",
+"type": "satellite"
+},
+{
+"id": 106,
+"name": "OneWeb-1105",
+"type": "satellite"
+},
+{
+"id": 141,
+"name": "Lemur-2-1140",
+"type": "satellite"
+}
+]
+}

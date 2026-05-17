@@ -1,0 +1,13 @@
+{
+"id": 418,
+"name": "Galileo FOC N7",
+"norad_id": 25417,
+"altitude_km": 22219.0,
+"inclination_deg": 54.71,
+"period_min": 801.8275297813784,
+"type": "MEO",
+"country": "ESA",
+"launch_year": 2017,
+"description": "European Galileo navigation satellite",
+"orbits_planet_id": "Earth"
+}

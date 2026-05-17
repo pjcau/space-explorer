@@ -1,0 +1,13 @@
+{
+"id": 377,
+"name": "GLONASS-K F6",
+"norad_id": 25376,
+"altitude_km": 11682.0,
+"inclination_deg": 66.17999999999999,
+"period_min": 402.331284091151,
+"type": "MEO",
+"country": "Russia",
+"launch_year": 2013,
+"description": "Russian global navigation satellite",
+"orbits_planet_id": "Earth"
+}

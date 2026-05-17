@@ -1,0 +1,13 @@
+{
+"id": 341,
+"name": "Lemur-2-1340",
+"norad_id": 25340,
+"altitude_km": 380.0,
+"inclination_deg": 54.400000000000006,
+"period_min": 92.00509796531459,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2018,
+"description": "Ship & weather tracking (Spire)",
+"orbits_planet_id": "Earth"
+}

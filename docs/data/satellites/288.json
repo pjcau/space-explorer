@@ -1,0 +1,13 @@
+{
+"id": 288,
+"name": "Yaogan-1287",
+"norad_id": 25287,
+"altitude_km": 629.0,
+"inclination_deg": 62.49000000000001,
+"period_min": 97.14194396143358,
+"type": "LEO",
+"country": "China",
+"launch_year": 2017,
+"description": "Chinese remote-sensing satellite",
+"orbits_planet_id": "Earth"
+}

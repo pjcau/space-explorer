@@ -1,0 +1,13 @@
+{
+"id": 470,
+"name": "Eutelsat 20",
+"norad_id": 25469,
+"altitude_km": 35783.0,
+"inclination_deg": 0.249,
+"period_min": 1435.5486559513172,
+"type": "GEO",
+"country": "France",
+"launch_year": 2020,
+"description": "European DTH/TV broadcast satellite",
+"orbits_planet_id": "Earth"
+}

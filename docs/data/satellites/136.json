@@ -1,0 +1,13 @@
+{
+"id": 136,
+"name": "Yaogan-1135",
+"norad_id": 25135,
+"altitude_km": 1495.0,
+"inclination_deg": 63.849999999999994,
+"period_min": 115.71526205698841,
+"type": "LEO",
+"country": "China",
+"launch_year": 2015,
+"description": "Chinese remote-sensing satellite",
+"orbits_planet_id": "Earth"
+}

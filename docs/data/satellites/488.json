@@ -1,0 +1,13 @@
+{
+"id": 488,
+"name": "Eutelsat 38",
+"norad_id": 25487,
+"altitude_km": 35797.0,
+"inclination_deg": 0.147,
+"period_min": 1436.2638674299153,
+"type": "GEO",
+"country": "France",
+"launch_year": 2020,
+"description": "European DTH/TV broadcast satellite",
+"orbits_planet_id": "Earth"
+}

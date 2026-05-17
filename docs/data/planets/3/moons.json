@@ -1,0 +1,10 @@
+[
+{
+"id": 1,
+"planet_id": 3,
+"name": "Moon",
+"orbital_radius_km": 384400.0,
+"radius_km": 1737.4,
+"description": "Earth's only natural satellite"
+}
+]

@@ -1,0 +1,13 @@
+{
+"id": 339,
+"name": "Iridium-1338",
+"norad_id": 25338,
+"altitude_km": 1496.0,
+"inclination_deg": 89.06,
+"period_min": 115.73732897912464,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2020,
+"description": "Voice/data satellite phone network",
+"orbits_planet_id": "Earth"
+}

@@ -1,0 +1,37 @@
+{
+"id": 9,
+"name": "Adrastea",
+"type": "moon",
+"parent": {
+"id": 5,
+"name": "Jupiter",
+"type": "planet"
+},
+"siblings": [
+{
+"id": 2,
+"name": "Io",
+"type": "moon"
+},
+{
+"id": 3,
+"name": "Europa",
+"type": "moon"
+},
+{
+"id": 4,
+"name": "Ganymede",
+"type": "moon"
+},
+{
+"id": 5,
+"name": "Callisto",
+"type": "moon"
+},
+{
+"id": 6,
+"name": "Amalthea",
+"type": "moon"
+}
+]
+}

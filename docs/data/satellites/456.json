@@ -1,0 +1,13 @@
+{
+"id": 456,
+"name": "Türksat 06",
+"norad_id": 25455,
+"altitude_km": 35781.0,
+"inclination_deg": 0.135,
+"period_min": 1435.446492576901,
+"type": "GEO",
+"country": "Turkey",
+"launch_year": 2026,
+"description": "Turkish state communications satellite",
+"orbits_planet_id": "Earth"
+}

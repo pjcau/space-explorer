@@ -1,0 +1,13 @@
+{
+"id": 298,
+"name": "OneWeb-1297",
+"norad_id": 25297,
+"altitude_km": 799.0,
+"inclination_deg": 87.19000000000001,
+"period_min": 100.7020852450337,
+"type": "LEO",
+"country": "UK",
+"launch_year": 2022,
+"description": "Global broadband constellation",
+"orbits_planet_id": "Earth"
+}

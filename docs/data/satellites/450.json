@@ -1,0 +1,13 @@
+{
+"id": 450,
+"name": "O3b mPower T9",
+"norad_id": 25449,
+"altitude_km": 5443.0,
+"inclination_deg": -1.099999999999999,
+"period_min": 212.98802179379234,
+"type": "MEO",
+"country": "Luxembourg",
+"launch_year": 2025,
+"description": "Medium-Earth orbit broadband constellation",
+"orbits_planet_id": "Earth"
+}

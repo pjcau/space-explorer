@@ -1,0 +1,13 @@
+{
+"id": 4,
+"name": "Planet Dove-1003",
+"norad_id": 25003,
+"altitude_km": 401.0,
+"inclination_deg": 94.61,
+"period_min": 92.43472516273931,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2020,
+"description": "Earth imaging cubesat (Planet Labs)",
+"orbits_planet_id": "Earth"
+}

@@ -1,0 +1,13 @@
+{
+"id": 485,
+"name": "AsiaSat 35",
+"norad_id": 25484,
+"altitude_km": 35788.0,
+"inclination_deg": 0.17400000000000002,
+"period_min": 1435.8040749904987,
+"type": "GEO",
+"country": "Hong Kong",
+"launch_year": 2018,
+"description": "Asia-Pacific direct-broadcast TV",
+"orbits_planet_id": "Earth"
+}

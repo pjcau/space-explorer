@@ -1,0 +1,13 @@
+{
+"id": 394,
+"name": "BeiDou MEO I3",
+"norad_id": 25393,
+"altitude_km": 16051.0,
+"inclination_deg": 54.59,
+"period_min": 556.892350525459,
+"type": "MEO",
+"country": "China",
+"launch_year": 2018,
+"description": "Chinese BeiDou navigation satellite",
+"orbits_planet_id": "Earth"
+}

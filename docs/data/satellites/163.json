@@ -1,0 +1,13 @@
+{
+"id": 163,
+"name": "Iridium-1162",
+"norad_id": 25162,
+"altitude_km": 804.0,
+"inclination_deg": 88.74000000000001,
+"period_min": 100.80744051632728,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2019,
+"description": "Voice/data satellite phone network",
+"orbits_planet_id": "Earth"
+}

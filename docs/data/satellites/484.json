@@ -1,0 +1,13 @@
+{
+"id": 484,
+"name": "Inmarsat 34",
+"norad_id": 25483,
+"altitude_km": 35785.0,
+"inclination_deg": 0.133,
+"period_min": 1435.6508217493379,
+"type": "GEO",
+"country": "UK",
+"launch_year": 2016,
+"description": "Maritime/aero satphone backbone",
+"orbits_planet_id": "Earth"
+}

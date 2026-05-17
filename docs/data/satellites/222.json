@@ -1,0 +1,13 @@
+{
+"id": 222,
+"name": "CosmosSAR-1221",
+"norad_id": 25221,
+"altitude_km": 657.0,
+"inclination_deg": 67.57,
+"period_min": 97.72537808887988,
+"type": "LEO",
+"country": "Russia",
+"launch_year": 2017,
+"description": "Synthetic-aperture radar reconnaissance",
+"orbits_planet_id": "Earth"
+}

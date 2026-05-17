@@ -1,0 +1,13 @@
+{
+"id": 177,
+"name": "Starlink-1176",
+"norad_id": 25176,
+"altitude_km": 1042.0,
+"inclination_deg": 50.32,
+"period_min": 105.86459253641951,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2020,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Earth"
+}

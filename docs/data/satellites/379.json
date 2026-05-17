@@ -1,0 +1,13 @@
+{
+"id": 379,
+"name": "BeiDou MEO F8",
+"norad_id": 25378,
+"altitude_km": 12196.0,
+"inclination_deg": 56.64,
+"period_min": 419.6356111615248,
+"type": "MEO",
+"country": "China",
+"launch_year": 2019,
+"description": "Chinese BeiDou navigation satellite",
+"orbits_planet_id": "Earth"
+}

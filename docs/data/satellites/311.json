@@ -1,0 +1,13 @@
+{
+"id": 311,
+"name": "BlackSky-1310",
+"norad_id": 25310,
+"altitude_km": 1020.0,
+"inclination_deg": 45.7,
+"period_min": 105.39367141406963,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2019,
+"description": "High-cadence Earth observation",
+"orbits_planet_id": "Earth"
+}

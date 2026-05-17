@@ -1,0 +1,13 @@
+{
+"id": 42,
+"name": "OneWeb-1041",
+"norad_id": 25041,
+"altitude_km": 1047.0,
+"inclination_deg": 87.27000000000001,
+"period_min": 105.97171762919831,
+"type": "LEO",
+"country": "UK",
+"launch_year": 2021,
+"description": "Global broadband constellation",
+"orbits_planet_id": "Earth"
+}

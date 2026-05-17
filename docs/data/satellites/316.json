@@ -1,0 +1,13 @@
+{
+"id": 316,
+"name": "Planet Dove-1315",
+"norad_id": 25315,
+"altitude_km": 1105.0,
+"inclination_deg": 98.45,
+"period_min": 107.21700443097946,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2017,
+"description": "Earth imaging cubesat (Planet Labs)",
+"orbits_planet_id": "Mars"
+}

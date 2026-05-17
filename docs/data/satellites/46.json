@@ -1,0 +1,13 @@
+{
+"id": 46,
+"name": "CosmosSAR-1045",
+"norad_id": 25045,
+"altitude_km": 1115.0,
+"inclination_deg": 67.25,
+"period_min": 107.43219875316113,
+"type": "LEO",
+"country": "Russia",
+"launch_year": 2016,
+"description": "Synthetic-aperture radar reconnaissance",
+"orbits_planet_id": "Earth"
+}

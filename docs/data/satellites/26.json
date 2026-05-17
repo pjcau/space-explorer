@@ -1,0 +1,13 @@
+{
+"id": 26,
+"name": "OneWeb-1025",
+"norad_id": 25025,
+"altitude_km": 775.0,
+"inclination_deg": 86.15,
+"period_min": 100.19689142756309,
+"type": "LEO",
+"country": "UK",
+"launch_year": 2020,
+"description": "Global broadband constellation",
+"orbits_planet_id": "Earth"
+}

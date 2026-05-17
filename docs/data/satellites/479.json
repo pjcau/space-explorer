@@ -1,0 +1,13 @@
+{
+"id": 479,
+"name": "AsiaSat 29",
+"norad_id": 25478,
+"altitude_km": 35770.0,
+"inclination_deg": 0.10800000000000001,
+"period_min": 1434.8846373420936,
+"type": "GEO",
+"country": "Hong Kong",
+"launch_year": 2018,
+"description": "Asia-Pacific direct-broadcast TV",
+"orbits_planet_id": "Earth"
+}

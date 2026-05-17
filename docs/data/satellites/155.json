@@ -1,0 +1,13 @@
+{
+"id": 155,
+"name": "Iridium-1154",
+"norad_id": 25154,
+"altitude_km": 668.0,
+"inclination_deg": 88.18,
+"period_min": 97.95490277869929,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2021,
+"description": "Voice/data satellite phone network",
+"orbits_planet_id": "Earth"
+}

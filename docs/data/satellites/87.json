@@ -1,0 +1,13 @@
+{
+"id": 87,
+"name": "BlackSky-1086",
+"norad_id": 25086,
+"altitude_km": 662.0,
+"inclination_deg": 42.02,
+"period_min": 97.82968524325854,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2020,
+"description": "High-cadence Earth observation",
+"orbits_planet_id": "Earth"
+}

@@ -1,0 +1,37 @@
+{
+"id": 2,
+"name": "Venus",
+"type": "planet",
+"parent": {
+"id": 0,
+"name": "Sun",
+"type": "star"
+},
+"siblings": [
+{
+"id": 1,
+"name": "Mercury",
+"type": "planet"
+},
+{
+"id": 3,
+"name": "Earth",
+"type": "planet"
+},
+{
+"id": 4,
+"name": "Mars",
+"type": "planet"
+},
+{
+"id": 5,
+"name": "Jupiter",
+"type": "planet"
+},
+{
+"id": 6,
+"name": "Saturn",
+"type": "planet"
+}
+]
+}

@@ -1,0 +1,13 @@
+{
+"id": 63,
+"name": "BlackSky-1062",
+"norad_id": 25062,
+"altitude_km": 1404.0,
+"inclination_deg": 46.34,
+"period_min": 113.71305480924,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2021,
+"description": "High-cadence Earth observation",
+"orbits_planet_id": "Earth"
+}

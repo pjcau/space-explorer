@@ -1,0 +1,13 @@
+{
+"id": 480,
+"name": "Türksat 30",
+"norad_id": 25479,
+"altitude_km": 35773.0,
+"inclination_deg": 0.09900000000000002,
+"period_min": 1435.0378633164205,
+"type": "GEO",
+"country": "Turkey",
+"launch_year": 2026,
+"description": "Turkish state communications satellite",
+"orbits_planet_id": "Earth"
+}

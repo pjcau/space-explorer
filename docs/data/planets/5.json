@@ -1,0 +1,83 @@
+{
+"id": 5,
+"name": "Jupiter",
+"distance_au": 5.2,
+"radius_km": 69911.0,
+"color": "#DEB887",
+"rotation_period_hours": 9.9,
+"description": "Largest planet in the solar system",
+"moons": [
+{
+"id": 2,
+"planet_id": 5,
+"name": "Io",
+"orbital_radius_km": 421700.0,
+"radius_km": 1821.6,
+"description": "Most volcanically active body in the solar system"
+},
+{
+"id": 3,
+"planet_id": 5,
+"name": "Europa",
+"orbital_radius_km": 671034.0,
+"radius_km": 1560.8,
+"description": "Ice-covered moon with subsurface ocean"
+},
+{
+"id": 4,
+"planet_id": 5,
+"name": "Ganymede",
+"orbital_radius_km": 1070412.0,
+"radius_km": 2634.1,
+"description": "Largest moon in the solar system"
+},
+{
+"id": 5,
+"planet_id": 5,
+"name": "Callisto",
+"orbital_radius_km": 1882709.0,
+"radius_km": 2410.3,
+"description": "Heavily cratered moon"
+},
+{
+"id": 6,
+"planet_id": 5,
+"name": "Amalthea",
+"orbital_radius_km": 181350.0,
+"radius_km": 83.5,
+"description": "Irregularly shaped inner moon"
+},
+{
+"id": 7,
+"planet_id": 5,
+"name": "Thebe",
+"orbital_radius_km": 221700.0,
+"radius_km": 49.2,
+"description": "Small inner moon of Jupiter"
+},
+{
+"id": 8,
+"planet_id": 5,
+"name": "Metis",
+"orbital_radius_km": 128000.0,
+"radius_km": 21.5,
+"description": "Innermost moon of Jupiter"
+},
+{
+"id": 9,
+"planet_id": 5,
+"name": "Adrastea",
+"orbital_radius_km": 129000.0,
+"radius_km": 16.7,
+"description": "Small inner moon of Jupiter"
+},
+{
+"id": 10,
+"planet_id": 5,
+"name": "Leda",
+"orbital_radius_km": 11167000.0,
+"radius_km": 10.0,
+"description": "Irregular outer moon of Jupiter"
+}
+]
+}

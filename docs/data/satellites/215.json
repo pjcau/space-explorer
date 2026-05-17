@@ -1,0 +1,13 @@
+{
+"id": 215,
+"name": "BlackSky-1214",
+"norad_id": 25214,
+"altitude_km": 538.0,
+"inclination_deg": 44.980000000000004,
+"period_min": 95.25384582913995,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2023,
+"description": "High-cadence Earth observation",
+"orbits_planet_id": "Earth"
+}

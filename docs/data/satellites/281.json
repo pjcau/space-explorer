@@ -1,0 +1,13 @@
+{
+"id": 281,
+"name": "Starlink-1280",
+"norad_id": 25280,
+"altitude_km": 510.0,
+"inclination_deg": 51.6,
+"period_min": 94.6753821690322,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2019,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Mars"
+}

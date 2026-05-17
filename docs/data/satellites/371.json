@@ -1,0 +1,13 @@
+{
+"id": 371,
+"name": "GPS BIIR E0",
+"norad_id": 25370,
+"altitude_km": 10140.0,
+"inclination_deg": 55.6,
+"period_min": 351.9004289444316,
+"type": "MEO",
+"country": "USA",
+"launch_year": 2001,
+"description": "US Air Force GPS navigation satellite",
+"orbits_planet_id": "Earth"
+}

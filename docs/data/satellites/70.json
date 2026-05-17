@@ -1,0 +1,13 @@
+{
+"id": 70,
+"name": "CosmosSAR-1069",
+"norad_id": 25069,
+"altitude_km": 373.0,
+"inclination_deg": 68.92999999999999,
+"period_min": 91.8620372240733,
+"type": "LEO",
+"country": "Russia",
+"launch_year": 2020,
+"description": "Synthetic-aperture radar reconnaissance",
+"orbits_planet_id": "Earth"
+}

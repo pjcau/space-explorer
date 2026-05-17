@@ -1,0 +1,13 @@
+{
+"id": 294,
+"name": "CosmosSAR-1293",
+"norad_id": 25293,
+"altitude_km": 731.0,
+"inclination_deg": 66.61,
+"period_min": 99.2729053051753,
+"type": "LEO",
+"country": "Russia",
+"launch_year": 2019,
+"description": "Synthetic-aperture radar reconnaissance",
+"orbits_planet_id": "Earth"
+}

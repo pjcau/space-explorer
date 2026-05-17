@@ -1,0 +1,13 @@
+{
+"id": 74,
+"name": "OneWeb-1073",
+"norad_id": 25073,
+"altitude_km": 441.0,
+"inclination_deg": 89.51,
+"period_min": 93.2549060831168,
+"type": "LEO",
+"country": "UK",
+"launch_year": 2023,
+"description": "Global broadband constellation",
+"orbits_planet_id": "Earth"
+}

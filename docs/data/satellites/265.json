@@ -1,0 +1,13 @@
+{
+"id": 265,
+"name": "Starlink-1264",
+"norad_id": 25264,
+"altitude_km": 1388.0,
+"inclination_deg": 50.480000000000004,
+"period_min": 113.36222409694997,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2023,
+"description": "SpaceX broadband internet constellation",
+"orbits_planet_id": "Earth"
+}

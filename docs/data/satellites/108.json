@@ -1,0 +1,13 @@
+{
+"id": 108,
+"name": "Planet Dove-1107",
+"norad_id": 25107,
+"altitude_km": 1019.0,
+"inclination_deg": 95.89,
+"period_min": 105.37228254116998,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2019,
+"description": "Earth imaging cubesat (Planet Labs)",
+"orbits_planet_id": "Earth"
+}

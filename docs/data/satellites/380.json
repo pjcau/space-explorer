@@ -1,0 +1,13 @@
+{
+"id": 380,
+"name": "O3b mPower F9",
+"norad_id": 25379,
+"altitude_km": 12453.0,
+"inclination_deg": 1.7999999999999998,
+"period_min": 428.37843645238297,
+"type": "MEO",
+"country": "Luxembourg",
+"launch_year": 2027,
+"description": "Medium-Earth orbit broadband constellation",
+"orbits_planet_id": "Earth"
+}

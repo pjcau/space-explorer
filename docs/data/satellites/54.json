@@ -1,0 +1,13 @@
+{
+"id": 54,
+"name": "CosmosSAR-1053",
+"norad_id": 25053,
+"altitude_km": 1251.0,
+"inclination_deg": 67.80999999999999,
+"period_min": 110.37307616330418,
+"type": "LEO",
+"country": "Russia",
+"launch_year": 2019,
+"description": "Synthetic-aperture radar reconnaissance",
+"orbits_planet_id": "Earth"
+}

@@ -1,0 +1,13 @@
+{
+"id": 330,
+"name": "OneWeb-1329",
+"norad_id": 25329,
+"altitude_km": 1343.0,
+"inclination_deg": 89.43,
+"period_min": 112.37745227152848,
+"type": "LEO",
+"country": "UK",
+"launch_year": 2024,
+"description": "Global broadband constellation",
+"orbits_planet_id": "Earth"
+}

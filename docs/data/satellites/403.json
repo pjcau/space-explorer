@@ -1,0 +1,13 @@
+{
+"id": 403,
+"name": "Galileo FOC K2",
+"norad_id": 25402,
+"altitude_km": 18364.0,
+"inclination_deg": 56.76,
+"period_min": 645.2493892785603,
+"type": "MEO",
+"country": "ESA",
+"launch_year": 2018,
+"description": "European Galileo navigation satellite",
+"orbits_planet_id": "Earth"
+}

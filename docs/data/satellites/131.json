@@ -1,0 +1,13 @@
+{
+"id": 131,
+"name": "Iridium-1130",
+"norad_id": 25130,
+"altitude_km": 1410.0,
+"inclination_deg": 86.5,
+"period_min": 113.84470946027348,
+"type": "LEO",
+"country": "USA",
+"launch_year": 2017,
+"description": "Voice/data satellite phone network",
+"orbits_planet_id": "Earth"
+}

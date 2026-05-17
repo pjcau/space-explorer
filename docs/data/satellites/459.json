@@ -1,0 +1,13 @@
+{
+"id": 459,
+"name": "SES 09",
+"norad_id": 25458,
+"altitude_km": 35790.0,
+"inclination_deg": 0.108,
+"period_min": 1435.9062468472766,
+"type": "GEO",
+"country": "Luxembourg",
+"launch_year": 2020,
+"description": "SES global communications relay",
+"orbits_planet_id": "Earth"
+}

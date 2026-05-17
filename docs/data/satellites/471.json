@@ -1,0 +1,13 @@
+{
+"id": 471,
+"name": "SES 21",
+"norad_id": 25470,
+"altitude_km": 35786.0,
+"inclination_deg": 0.23999999999999996,
+"period_min": 1435.701905557181,
+"type": "GEO",
+"country": "Luxembourg",
+"launch_year": 2020,
+"description": "SES global communications relay",
+"orbits_planet_id": "Earth"
+}

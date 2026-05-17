@@ -1,0 +1,13 @@
+{
+"id": 401,
+"name": "GPS BIIR K0",
+"norad_id": 25400,
+"altitude_km": 17850.0,
+"inclination_deg": 55.5,
+"period_min": 625.2415551361838,
+"type": "MEO",
+"country": "USA",
+"launch_year": 1999,
+"description": "US Air Force GPS navigation satellite",
+"orbits_planet_id": "Earth"
+}

@@ -1,0 +1,91 @@
+{
+"id": 6,
+"name": "Saturn",
+"distance_au": 9.58,
+"radius_km": 58232.0,
+"color": "#F4A460",
+"rotation_period_hours": 10.7,
+"description": "Planet with prominent rings",
+"moons": [
+{
+"id": 11,
+"planet_id": 6,
+"name": "Titan",
+"orbital_radius_km": 1221870.0,
+"radius_km": 2574.7,
+"description": "Largest moon of Saturn with thick atmosphere"
+},
+{
+"id": 12,
+"planet_id": 6,
+"name": "Rhea",
+"orbital_radius_km": 527108.0,
+"radius_km": 763.8,
+"description": "Second-largest moon of Saturn"
+},
+{
+"id": 13,
+"planet_id": 6,
+"name": "Iapetus",
+"orbital_radius_km": 3560820.0,
+"radius_km": 734.5,
+"description": "Two-toned moon with dark leading hemisphere"
+},
+{
+"id": 14,
+"planet_id": 6,
+"name": "Dione",
+"orbital_radius_km": 377390.0,
+"radius_km": 561.4,
+"description": "Heavily cratered moon"
+},
+{
+"id": 15,
+"planet_id": 6,
+"name": "Tethys",
+"orbital_radius_km": 294619.0,
+"radius_km": 531.1,
+"description": "Moon with large impact crater"
+},
+{
+"id": 16,
+"planet_id": 6,
+"name": "Enceladus",
+"orbital_radius_km": 237948.0,
+"radius_km": 252.1,
+"description": "Ice-covered moon with geysers"
+},
+{
+"id": 17,
+"planet_id": 6,
+"name": "Mimas",
+"orbital_radius_km": 185540.0,
+"radius_km": 198.2,
+"description": "Moon with large Herschel crater"
+},
+{
+"id": 18,
+"planet_id": 6,
+"name": "Hyperion",
+"orbital_radius_km": 1481010.0,
+"radius_km": 134.0,
+"description": "Irregular sponge-like moon"
+},
+{
+"id": 19,
+"planet_id": 6,
+"name": "Phoebe",
+"orbital_radius_km": 12952000.0,
+"radius_km": 106.2,
+"description": "Irregular retrograde moon"
+},
+{
+"id": 20,
+"planet_id": 6,
+"name": "Rhea",
+"orbital_radius_km": 527108.0,
+"radius_km": 763.8,
+"description": "Second-largest moon of Saturn"
+}
+]
+}

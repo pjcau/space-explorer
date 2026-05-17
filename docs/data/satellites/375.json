@@ -1,0 +1,13 @@
+{
+"id": 375,
+"name": "O3b mPower E4",
+"norad_id": 25374,
+"altitude_km": 11168.0,
+"inclination_deg": 1.15,
+"period_min": 385.27157847777863,
+"type": "MEO",
+"country": "Luxembourg",
+"launch_year": 2022,
+"description": "Medium-Earth orbit broadband constellation",
+"orbits_planet_id": "Earth"
+}

@@ -1,0 +1,13 @@
+{
+"id": 469,
+"name": "Intelsat 19",
+"norad_id": 25468,
+"altitude_km": 35780.0,
+"inclination_deg": 0.248,
+"period_min": 1435.395411798562,
+"type": "GEO",
+"country": "USA",
+"launch_year": 2017,
+"description": "Geostationary communications relay",
+"orbits_planet_id": "Earth"
+}
